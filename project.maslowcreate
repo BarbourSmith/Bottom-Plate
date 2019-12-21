@@ -2,25 +2,21 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Cut Away",
-            "x": 95,
-            "y": 130,
-            "uniqueID": 693000,
+            "name": "Template",
+            "x": 101,
+            "y": 106,
+            "uniqueID": 990411,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 110,
-                    "y": 96,
-                    "uniqueID": 962276,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 69.5
-                        }
-                    ]
+                    "atomType": "GitHubMolecule",
+                    "name": "Plate Template",
+                    "x": 477,
+                    "y": 214,
+                    "uniqueID": 139152,
+                    "projectID": "229376941",
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -32,10 +28,10 @@
             ],
             "allConnectors": [
                 {
-                    "ap1Name": "geometry",
+                    "ap1Name": "Geometry",
                     "ap2Name": "number or geometry",
                     "ap2Primary": false,
-                    "ap1ID": 962276
+                    "ap1ID": 139152
                 }
             ],
             "fileTypeVersion": 1
@@ -174,24 +170,11 @@
             "topLevel": true,
             "allAtoms": [
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 100,
-                    "y": 62,
-                    "uniqueID": 201735,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 285
-                        }
-                    ]
-                },
-                {
                     "atomType": "Molecule",
-                    "name": "Cut Away",
-                    "x": 95,
-                    "y": 130,
-                    "uniqueID": 693000,
+                    "name": "Template",
+                    "x": 101,
+                    "y": 106,
+                    "uniqueID": 990411,
                     "ioValues": []
                 },
                 {
@@ -201,27 +184,6 @@
                     "y": 207,
                     "uniqueID": 762610,
                     "ioValues": []
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 301,
-                    "y": 66,
-                    "uniqueID": 511984,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 511,
-                    "y": 65,
-                    "uniqueID": 825733,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 10
-                        }
-                    ]
                 },
                 {
                     "atomType": "Assembly",
@@ -235,7 +197,7 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 3",
+                            "name": "3D shape 4",
                             "ioValue": 10
                         }
                     ],
@@ -251,38 +213,17 @@
             ],
             "allConnectors": [
                 {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap2Primary": false,
-                    "ap1ID": 201735,
-                    "ap2ID": 511984
-                },
-                {
                     "ap1Name": "Geometry",
-                    "ap2Name": "geometry2",
+                    "ap2Name": "3D shape 4",
                     "ap2Primary": false,
-                    "ap1ID": 693000,
-                    "ap2ID": 511984
+                    "ap1ID": 990411,
+                    "ap2ID": 907624
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 2",
                     "ap2Primary": false,
                     "ap1ID": 762610,
-                    "ap2ID": 907624
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 511984,
-                    "ap2ID": 825733
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 3",
-                    "ap2Primary": false,
-                    "ap1ID": 825733,
                     "ap2ID": 907624
                 },
                 {
