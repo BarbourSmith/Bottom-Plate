@@ -75,7 +75,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": -9
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -96,7 +96,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": -9
+                            "ioValue": 10
                         }
                     ]
                 },
