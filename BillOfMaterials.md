@@ -2,9 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|M6 Locknut|2|$0.05|https://www.mcmaster.com/90576a115|
-|Joint Connector|2|$2.25|https://www.woodcraft.com/products/joint-connector-small-2-1-2-to-3-1-4|
 |20MM Linear Slide|3|$6.00|www.example.com|
-|Total: |7|$8.30| |
+|Total: |3|$6.00| |
 
- 3xCOG MSRP: $24.90
+ 3xCOG MSRP: $18.00
