@@ -351,10 +351,6 @@
                     "uniqueID": 705910,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -394,10 +390,6 @@
                     "uniqueID": 139117,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -433,6 +425,20 @@
                     "ap2Primary": false,
                     "ap1ID": 804977,
                     "ap2ID": 541497
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 541497,
+                    "ap2ID": 705910
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 541497,
+                    "ap2ID": 139117
                 },
                 {
                     "ap1Name": "geometry",
@@ -496,33 +502,12 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 0.19326500732064422,
-            "y": 0.7509578544061302,
+            "x": 0.1815519765739385,
+            "y": 0.7471264367816093,
             "uniqueID": 201323,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 0.44729136163982436,
-                    "y": 0.13409961685823754,
-                    "uniqueID": 794172,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
@@ -533,6 +518,27 @@
                         {
                             "name": "height",
                             "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 0.4487554904831625,
+                    "y": 0.14559386973180077,
+                    "uniqueID": 794172,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 72
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -552,8 +558,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 0.4370424597364568,
-                    "y": 0.4061302681992337,
+                    "x": 0.43850658857979496,
+                    "y": 0.42911877394636017,
                     "uniqueID": 770346,
                     "ioValues": [
                         {
@@ -562,7 +568,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 72
                         },
                         {
                             "name": "zDist",
@@ -592,20 +598,6 @@
                     ]
                 },
                 {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 0.712298682284041,
-                    "y": 0.4559386973180076,
-                    "uniqueID": 170400,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 1",
-                            "ioValue": 10
-                        }
-                    ],
-                    "removeCutawayGeometry": true
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 0.4377745241581259,
@@ -618,7 +610,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -72
                         },
                         {
                             "name": "zDist",
@@ -669,19 +661,6 @@
                     "ap2Primary": true,
                     "ap1ID": 145384,
                     "ap2ID": 390182
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 170400
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 1",
-                    "ap2Primary": false,
-                    "ap1ID": 618667,
-                    "ap2ID": 170400
                 }
             ],
             "fileTypeVersion": 1
@@ -732,8 +711,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule",
-                    "x": 0.19326500732064422,
-                    "y": 0.7509578544061302,
+                    "x": 0.1815519765739385,
+                    "y": 0.7471264367816093,
                     "uniqueID": 201323,
                     "ioValues": []
                 },
