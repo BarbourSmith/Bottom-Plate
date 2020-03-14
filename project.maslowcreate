@@ -351,10 +351,6 @@
                     "uniqueID": 705910,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -393,10 +389,6 @@
                     "y": 0.7318007662835249,
                     "uniqueID": 139117,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "xDist",
                             "ioValue": 0
@@ -854,12 +846,7 @@
                     "x": 0.2994143484626647,
                     "y": 0.5977011494252873,
                     "uniqueID": 422387,
-                    "ioValues": [
-                        {
-                            "name": "geometry1",
-                            "ioValue": ""
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "ExtractTag",
