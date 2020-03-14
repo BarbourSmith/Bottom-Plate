@@ -351,6 +351,10 @@
                     "uniqueID": 705910,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -389,6 +393,10 @@
                     "y": 0.7318007662835249,
                     "uniqueID": 139117,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "xDist",
                             "ioValue": 0
@@ -846,7 +854,12 @@
                     "x": 0.2994143484626647,
                     "y": 0.5977011494252873,
                     "uniqueID": 422387,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "geometry1",
+                            "ioValue": ""
+                        }
+                    ]
                 },
                 {
                     "atomType": "ExtractTag",
@@ -883,6 +896,20 @@
                     "x": 0.9853587115666179,
                     "y": 0.5,
                     "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Measure Bounds",
+                    "x": 0.733528550512445,
+                    "y": 0.8773946360153256,
+                    "uniqueID": 553384,
+                    "projectID": "247363759",
+                    "ioValues": [
+                        {
+                            "name": "Shape",
+                            "ioValue": 10
+                        }
+                    ]
                 }
             ],
             "allConnectors": [
@@ -928,6 +955,13 @@
                     "ap2ID": 890537
                 },
                 {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Shape",
+                    "ap2Primary": false,
+                    "ap1ID": 170295,
+                    "ap2ID": 553384
+                },
+                {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry2",
                     "ap2Primary": false,
@@ -938,5 +972,5 @@
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": "0.1"
+    "circleSegmentSize": "4.6"
 }
