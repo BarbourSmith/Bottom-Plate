@@ -817,8 +817,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 0.40043923865300146,
-                    "y": 0.26053639846743293,
+                    "x": 0.3982430453879941,
+                    "y": 0.2720306513409962,
                     "uniqueID": 907624,
                     "ioValues": [
                         {
@@ -938,5 +938,5 @@
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": "0.1"
+    "circleSegmentSize": "0.4"
 }
