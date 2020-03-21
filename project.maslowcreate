@@ -1668,12 +1668,7 @@
                     "y": 0.8773946360153256,
                     "uniqueID": 553384,
                     "projectID": "247363759",
-                    "ioValues": [
-                        {
-                            "name": "Shape",
-                            "ioValue": 10
-                        }
-                    ]
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
