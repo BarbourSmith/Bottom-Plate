@@ -200,7 +200,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9853587115666179,
+                    "x": 0.9806013579049467,
                     "y": 0.5,
                     "ioValues": []
                 }
@@ -406,7 +406,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9853587115666179,
+                    "x": 0.9806013579049467,
                     "y": 0.5,
                     "ioValues": []
                 }
@@ -565,7 +565,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9853587115666179,
+                    "x": 0.9806013579049467,
                     "y": 0.5,
                     "ioValues": []
                 }
@@ -742,7 +742,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9853587115666179,
+                    "x": 0.9806013579049467,
                     "y": 0.5,
                     "ioValues": []
                 }
@@ -947,7 +947,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9853587115666179,
+                    "x": 0.9806013579049467,
                     "y": 0.5,
                     "ioValues": []
                 }
@@ -1091,7 +1091,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9853587115666179,
+                    "x": 0.9806013579049467,
                     "y": 0.5,
                     "ioValues": []
                 }
@@ -1163,7 +1163,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9853587115666179,
+                    "x": 0.9806013579049467,
                     "y": 0.5,
                     "ioValues": []
                 }
@@ -1247,7 +1247,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9853587115666179,
+                    "x": 0.9806013579049467,
                     "y": 0.5,
                     "ioValues": []
                 }
@@ -1475,7 +1475,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9853587115666179,
+                    "x": 0.9806013579049467,
                     "y": 0.5,
                     "ioValues": []
                 }
@@ -1657,7 +1657,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9853587115666179,
+                    "x": 0.9806013579049467,
                     "y": 0.5,
                     "ioValues": []
                 },
@@ -1668,7 +1668,12 @@
                     "y": 0.8773946360153256,
                     "uniqueID": 553384,
                     "projectID": "247363759",
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "Shape",
+                            "ioValue": 10
+                        }
+                    ]
                 }
             ],
             "allConnectors": [
@@ -1731,5 +1736,5 @@
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": "4.6"
+    "circleSegmentSize": "0.1"
 }
