@@ -2,6 +2,9 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|M5 Locknut|9|$3.67|https://www.mcmaster.com/90576a104|
+|M5 x 30mm Bolt|9|$1.12|https://www.mcmaster.com/91239a236|
+|20MM Linear Slide|3|$6.00|www.example.com|
+|Total: |21|$10.79| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $32.37
