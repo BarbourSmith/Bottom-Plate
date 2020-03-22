@@ -1649,8 +1649,8 @@
                 {
                     "atomType": "Svg",
                     "name": "Svg",
-                    "x": 0.733528550512445,
-                    "y": 0.6206896551724138,
+                    "x": 0.7342606149341141,
+                    "y": 0.6091954022988505,
                     "uniqueID": 890537,
                     "ioValues": []
                 },
@@ -1731,5 +1731,5 @@
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": "2.8"
+    "circleSegmentSize": "0.1"
 }
