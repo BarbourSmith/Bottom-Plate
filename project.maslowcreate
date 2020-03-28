@@ -1279,8 +1279,8 @@
         {
             "atomType": "Molecule",
             "name": "Cut Aways",
-            "x": 0.13982430453879943,
-            "y": 0.8160919540229885,
+            "x": 0.1383601756954612,
+            "y": 0.793103448275862,
             "uniqueID": 201323,
             "ioValues": [],
             "topLevel": false,
@@ -1460,7 +1460,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -20
+                            "ioValue": -30
                         },
                         {
                             "name": "yDist",
@@ -1628,8 +1628,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Cut Aways",
-                    "x": 0.13982430453879943,
-                    "y": 0.8160919540229885,
+                    "x": 0.1383601756954612,
+                    "y": 0.793103448275862,
                     "uniqueID": 201323,
                     "ioValues": []
                 },
