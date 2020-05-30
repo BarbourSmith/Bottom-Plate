@@ -4,7 +4,6 @@
  |----|----------|-----|-----|
 |M5 Locknut|8|$3.67|https://www.mcmaster.com/90576a104|
 |M5 x 30mm Bolt|8|$1.12|https://www.mcmaster.com/91239a236|
-|20MM Linear Slide|2|$6.00|www.example.com|
-|Total: |18|$10.79| |
+|Total: |16|$4.79| |
 
- 3xCOG MSRP: $32.37
+ 3xCOG MSRP: $14.37

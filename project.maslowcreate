@@ -28,16 +28,16 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 0.3103953147877013,
-                    "y": 0.5095785440613027,
+                    "x": 0.4165446559297218,
+                    "y": 0.48275862068965514,
                     "uniqueID": 541497,
                     "ioValues": [
                         {
-                            "name": "3D shape 1",
+                            "name": "3D shape 3",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 2",
+                            "name": "3D shape 4",
                             "ioValue": 10
                         }
                     ]
@@ -173,8 +173,8 @@
                         {
                             "atomType": "Translate",
                             "name": "Translate",
-                            "x": 0.3330893118594436,
-                            "y": 0.7816091954022989,
+                            "x": 0.32942898975109813,
+                            "y": 0.7701149425287357,
                             "uniqueID": 582651,
                             "ioValues": [
                                 {
@@ -187,7 +187,7 @@
                                 },
                                 {
                                     "name": "zDist",
-                                    "ioValue": -8.4
+                                    "ioValue": 0
                                 }
                             ]
                         },
@@ -361,6 +361,15 @@
                     "fileTypeVersion": 1
                 },
                 {
+                    "atomType": "Color",
+                    "name": "Color",
+                    "x": 0.34699853587115664,
+                    "y": 0.7394636015325671,
+                    "uniqueID": 156119,
+                    "ioValues": [],
+                    "selectedColorIndex": "11"
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 0.8462664714494875,
@@ -409,7 +418,7 @@
             "allConnectors": [
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 2",
+                    "ap2Name": "3D shape 4",
                     "ap2Primary": false,
                     "ap1ID": 409488,
                     "ap2ID": 541497
@@ -437,9 +446,16 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 1",
-                    "ap2Primary": false,
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 804977,
+                    "ap2ID": 156119
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 3",
+                    "ap2Primary": false,
+                    "ap1ID": 156119,
                     "ap2ID": 541497
                 },
                 {
@@ -1254,5 +1270,5 @@
     ],
     "fileTypeVersion": 1,
     "filetypeVersion": 1,
-    "circleSegmentSize": "0.1"
+    "circleSegmentSize": "4"
 }
