@@ -2,11 +2,13 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|M3 Locknut|1|$0.04|https://www.mcmaster.com/90576A102/|
+|Leadscrew Nut|1|$5.00|https://www.amazon.com/Drillpro-400mm-Lead-Screw-Printer/dp/B017AR5QBS|
+|M3 Locknut|5|$0.18|https://www.mcmaster.com/90576A102/|
 |M5 Locknut|8|$3.67|https://www.mcmaster.com/90576a104|
 |name|1|$0.16|https://www.mcmaster.com/91239a126|
 |M5 x 30mm Bolt|8|$1.12|https://www.mcmaster.com/91239a236|
+|M3 x 30 Bolt|4|$0.52|https://www.mcmaster.com/92095a187|
 |20MM Linear Slide|2|$6.00|www.example.com|
-|Total: |20|$10.98| |
+|Total: |29|$16.64| |
 
- 3xCOG MSRP: $32.95
+ 3xCOG MSRP: $49.93
