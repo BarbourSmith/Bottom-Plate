@@ -2146,6 +2146,64 @@
             ]
         },
         {
+            "atomType": "Molecule",
+            "name": "Linear Nut",
+            "x": 0.6288433382137628,
+            "y": 0.7854406130268199,
+            "uniqueID": 746993,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 0.2254758418740849,
+                    "y": 0.2298850574712644,
+                    "uniqueID": 944020,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 180
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "8mm Lead Screw Nut",
+                    "x": 0.07906295754026355,
+                    "y": 0.3333333333333333,
+                    "uniqueID": 534293,
+                    "projectID": "229501348",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 534293,
+                    "ap2ID": 944020
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9853587115666179,
