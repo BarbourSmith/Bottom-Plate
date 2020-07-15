@@ -692,13 +692,13 @@
         {
             "atomType": "Translate",
             "name": "Translate",
-            "x": 0.30819912152269396,
-            "y": 0.36015325670498083,
+            "x": 0.3067349926793558,
+            "y": 0.3639846743295019,
             "uniqueID": 727648,
             "ioValues": [
                 {
                     "name": "xDist",
-                    "ioValue": 40
+                    "ioValue": 60
                 },
                 {
                     "name": "yDist",
@@ -744,8 +744,8 @@
                         {
                             "atomType": "Molecule",
                             "name": "Cutaways",
-                            "x": 0.1281112737920937,
-                            "y": 0.26053639846743293,
+                            "x": 0.12664714494875548,
+                            "y": 0.2835249042145594,
                             "uniqueID": 309856,
                             "ioValues": [],
                             "topLevel": false,
@@ -1315,7 +1315,7 @@
                 },
                 {
                     "name": "z-axis degrees",
-                    "ioValue": 0
+                    "ioValue": 45
                 }
             ]
         },
