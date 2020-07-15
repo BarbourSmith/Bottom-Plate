@@ -1201,6 +1201,26 @@
             ]
         },
         {
+            "atomType": "Molecule",
+            "name": "Clamping Mechanism",
+            "x": 0.5387994143484627,
+            "y": 0.6973180076628352,
+            "uniqueID": 743406,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9853587115666179,
