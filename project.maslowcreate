@@ -1334,6 +1334,14 @@
                             ]
                         },
                         {
+                            "atomType": "Difference",
+                            "name": "Difference",
+                            "x": 0.6822840409956076,
+                            "y": 0.367816091954023,
+                            "uniqueID": 598605,
+                            "ioValues": []
+                        },
+                        {
                             "atomType": "Rectangle",
                             "name": "Rectangle",
                             "x": 0.3506588579795022,
@@ -1353,8 +1361,8 @@
                         {
                             "atomType": "Translate",
                             "name": "Translate",
-                            "x": 0.6010248901903367,
-                            "y": 0.6475095785440613,
+                            "x": 0.5966325036603221,
+                            "y": 0.6743295019157088,
                             "uniqueID": 858943,
                             "ioValues": [
                                 {
@@ -1363,11 +1371,11 @@
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": 0
+                                    "ioValue": -25
                                 },
                                 {
                                     "name": "zDist",
-                                    "ioValue": 0
+                                    "ioValue": -5
                                 }
                             ]
                         },
@@ -1430,6 +1438,13 @@
                         },
                         {
                             "ap1Name": "geometry",
+                            "ap2Name": "geometry1",
+                            "ap2Primary": false,
+                            "ap1ID": 133479,
+                            "ap2ID": 598605
+                        },
+                        {
+                            "ap1Name": "geometry",
                             "ap2Name": "geometry",
                             "ap2Primary": true,
                             "ap1ID": 317091,
@@ -1448,6 +1463,13 @@
                             "ap2Primary": true,
                             "ap1ID": 973189,
                             "ap2ID": 919018
+                        },
+                        {
+                            "ap1Name": "geometry",
+                            "ap2Name": "geometry2",
+                            "ap2Primary": false,
+                            "ap1ID": 858943,
+                            "ap2ID": 598605
                         },
                         {
                             "ap1Name": "geometry",
