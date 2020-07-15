@@ -1227,7 +1227,7 @@
                             "ioValues": [
                                 {
                                     "name": "diameter",
-                                    "ioValue": 20
+                                    "ioValue": 15
                                 }
                             ]
                         },
@@ -1598,7 +1598,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -15
+                            "ioValue": -12
                         },
                         {
                             "name": "zDist",
@@ -1660,8 +1660,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 0.5007320644216692,
-                    "y": 0.7662835249042146,
+                    "x": 0.5710102489019033,
+                    "y": 0.6360153256704981,
                     "uniqueID": 652392,
                     "ioValues": [
                         {
@@ -1681,8 +1681,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 0.3945827232796486,
-                    "y": 0.8390804597701149,
+                    "x": 0.4612005856515374,
+                    "y": 0.8275862068965518,
                     "uniqueID": 425317,
                     "ioValues": [
                         {
