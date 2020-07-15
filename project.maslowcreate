@@ -370,6 +370,13 @@
                     "selectedColorIndex": "11"
                 },
                 {
+                    "atomType": "Box",
+                    "name": "Box",
+                    "x": 0.8169838945827234,
+                    "y": 0.19540229885057472,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 0.8462664714494875,
@@ -473,23 +480,6 @@
                 }
             ],
             "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Assembly",
-            "name": "Assembly",
-            "x": 0.4765739385065885,
-            "y": 0.19540229885057472,
-            "uniqueID": 907624,
-            "ioValues": [
-                {
-                    "name": "3D shape 6",
-                    "ioValue": 10
-                },
-                {
-                    "name": "3D shape 7",
-                    "ioValue": 10
-                }
-            ]
         },
         {
             "atomType": "Molecule",
@@ -1080,6 +1070,27 @@
             "fileTypeVersion": 1
         },
         {
+            "atomType": "Assembly",
+            "name": "Assembly",
+            "x": 0.47803806734992677,
+            "y": 0.3371647509578544,
+            "uniqueID": 907624,
+            "ioValues": [
+                {
+                    "name": "3D shape 6",
+                    "ioValue": 10
+                },
+                {
+                    "name": "3D shape 8",
+                    "ioValue": 10
+                },
+                {
+                    "name": "3D shape 9",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
             "atomType": "Difference",
             "name": "Difference",
             "x": 0.2994143484626647,
@@ -1192,7 +1203,7 @@
                 },
                 {
                     "name": "zDist",
-                    "ioValue": 0
+                    "ioValue": -9.125
                 }
             ]
         },
@@ -1228,16 +1239,10 @@
     "allConnectors": [
         {
             "ap1Name": "Geometry",
-            "ap2Name": "3D shape 7",
+            "ap2Name": "3D shape 9",
             "ap2Primary": false,
             "ap1ID": 762610,
             "ap2ID": 907624
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "number or geometry",
-            "ap2Primary": false,
-            "ap1ID": 907624
         },
         {
             "ap1Name": "Geometry",
@@ -1245,6 +1250,12 @@
             "ap2Primary": false,
             "ap1ID": 990411,
             "ap2ID": 422387
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "number or geometry",
+            "ap2Primary": false,
+            "ap1ID": 907624
         },
         {
             "ap1Name": "geometry",
@@ -1266,6 +1277,13 @@
             "ap2Primary": false,
             "ap1ID": 201323,
             "ap2ID": 422387
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "3D shape 8",
+            "ap2Primary": false,
+            "ap1ID": 347656,
+            "ap2ID": 907624
         },
         {
             "ap1Name": "geometry",
