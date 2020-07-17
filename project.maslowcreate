@@ -491,6 +491,14 @@
                             "x": 0.9853587115666179,
                             "y": 0.5,
                             "ioValues": []
+                        },
+                        {
+                            "atomType": "Stl",
+                            "name": "Stl",
+                            "x": 0.8250366032210834,
+                            "y": 0.8582375478927203,
+                            "uniqueID": 788241,
+                            "ioValues": []
                         }
                     ],
                     "allConnectors": [
@@ -625,6 +633,13 @@
                             "ap2Primary": true,
                             "ap1ID": 554093,
                             "ap2ID": 920923
+                        },
+                        {
+                            "ap1Name": "geometry",
+                            "ap2Name": "geometry",
+                            "ap2Primary": false,
+                            "ap1ID": 554093,
+                            "ap2ID": 788241
                         },
                         {
                             "ap1Name": "geometry",
@@ -2714,5 +2729,5 @@
     ],
     "fileTypeVersion": 1,
     "filetypeVersion": 1,
-    "circleSegmentSize": "4"
+    "circleSegmentSize": "0.4"
 }
