@@ -1033,7 +1033,7 @@
             "atomType": "Molecule",
             "name": "Template",
             "x": 0.09224011713030746,
-            "y": 0.5095785440613027,
+            "y": 0.524904214559387,
             "uniqueID": 990411,
             "ioValues": [],
             "topLevel": false,
@@ -1320,8 +1320,8 @@
                                         {
                                             "atomType": "Translate",
                                             "name": "Translate",
-                                            "x": 0.28550512445095166,
-                                            "y": 0.6513409961685823,
+                                            "x": 0.2840409956076135,
+                                            "y": 0.6398467432950191,
                                             "uniqueID": 721316,
                                             "ioValues": [
                                                 {
@@ -2743,12 +2743,7 @@
                     "x": 0.5358711566617862,
                     "y": 0.35249042145593873,
                     "uniqueID": 753188,
-                    "ioValues": [
-                        {
-                            "name": "geometry2",
-                            "ioValue": ""
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Extrude",
